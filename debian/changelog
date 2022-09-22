@@ -1,0 +1,12 @@
+golang-github-golang-freetype (0.0~git20170609.e2365df+dfsg-2) unstable; urgency=medium
+
+  * debhelper-compat 13 (routine-update)
+  * Set upstream metadata fields: Bug-Database, Bug-Submit.
+
+ -- Andreas Tille <tille@debian.org>  Thu, 06 Aug 2020 13:02:04 +0200
+
+golang-github-golang-freetype (0.0~git20170609.e2365df+dfsg-1) unstable; urgency=medium
+
+  * Initial release (Closes: Bug#923187)
+
+ -- Andreas Tille <tille@debian.org>  Wed, 01 Jul 2020 12:08:37 +0200
